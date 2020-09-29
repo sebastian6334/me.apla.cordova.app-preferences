@@ -3,7 +3,7 @@
   "version": "0.99.6",
   "description": "Application preferences plugin and preference pane generator",
   "cordova": {
-    "id": "cordova-plugin-app-preferences",
+    "id": "cordova9-plugin-app-preferences",
     "platforms": [
       "android",
       "ios",

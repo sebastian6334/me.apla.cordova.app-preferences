@@ -22,7 +22,7 @@ Installing
 
 From plugin registry:
 
-	$ cordova plugin add cordova-plugin-app-preferences
+	$ cordova plugin add cordova9-plugin-app-preferences
 
 From the repo:
 
@@ -128,7 +128,7 @@ Please note that plugin id is changed for npm publishing, so if you used
 this plugin before cordova@5.0.0, you'll have to reinstall it:
 
 $ cordova plugin rm me.apla.cordova.app-preferences
-$ cordova plugin add cordova-plugin-app-preferences
+$ cordova plugin add cordova9-plugin-app-preferences
 
 
 Show Preference pane
