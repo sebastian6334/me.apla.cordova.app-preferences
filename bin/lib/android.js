@@ -28,7 +28,7 @@ module.exports = function (context) {
 							return path.join('platforms','android','app','src','main','res');
 						}
 					}
-					return path.join('platforms','android','res');
+					return path.join('platforms','android','app','src','main','res');
 				});
 	}
 
@@ -43,7 +43,7 @@ module.exports = function (context) {
 							return path.join('platforms','android','app','src','main','java');
 						}
 					}
-					return path.join('platforms','android','src');
+					return path.join('platforms','android','app','src','main','java');
 				});
 	}
 
